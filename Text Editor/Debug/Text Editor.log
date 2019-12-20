@@ -1,0 +1,11 @@
+﻿  Source.c
+c:\users\roni9\onedrive\מסמכים\visual studio 2015\projects\text editor\text editor\source.c(43): warning C4047: '=': 'LPCSTR' differs in levels of indirection from 'int'
+c:\users\roni9\onedrive\מסמכים\visual studio 2015\projects\text editor\text editor\source.c(75): warning C4133: 'function': incompatible types - from 'HMODULE' to 'HWND'
+c:\users\roni9\onedrive\מסמכים\visual studio 2015\projects\text editor\text editor\source.c(153): warning C4101: 'i': unreferenced local variable
+c:\users\roni9\onedrive\מסמכים\visual studio 2015\projects\text editor\text editor\source.c(248): warning C4101: 'i': unreferenced local variable
+c:\users\roni9\onedrive\מסמכים\visual studio 2015\projects\text editor\text editor\source.c(227): warning C4715: 'TxtProc': not all control paths return a value
+c:\users\roni9\onedrive\מסמכים\visual studio 2015\projects\text editor\text editor\source.c(175): warning C4715: 'WndProc': not all control paths return a value
+c:\users\roni9\onedrive\מסמכים\visual studio 2015\projects\text editor\text editor\source.c(367): warning C4716: 'LoadFile': must return a value
+c:\users\roni9\onedrive\מסמכים\visual studio 2015\projects\text editor\text editor\source.c(400): warning C4716: 'SaveFile': must return a value
+  Text Editor.vcxproj -> C:\Users\roni9\onedrive\מסמכים\visual studio 2015\Projects\Text Editor\Debug\Text Editor.exe
+  Text Editor.vcxproj -> C:\Users\roni9\onedrive\מסמכים\visual studio 2015\Projects\Text Editor\Debug\Text Editor.pdb (Partial PDB)
